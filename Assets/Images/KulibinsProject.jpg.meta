@@ -1,0 +1,2523 @@
+fileFormatVersion: 2
+guid: 40f7e1373e60386488350ae0c50d129f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5074566005663587574
+    second: 4873f69e9fae88283374c1e8ae87d138_cropped_666x500_0
+  - first:
+      213: 6373728976120493603
+    second: KulibinsProject_0
+  - first:
+      213: -1763607796092556974
+    second: KulibinsProject_1
+  - first:
+      213: 2626448134248370692
+    second: KulibinsProject_2
+  - first:
+      213: 5115078727089711044
+    second: KulibinsProject_3
+  - first:
+      213: 5678043176812565895
+    second: KulibinsProject_4
+  - first:
+      213: 3867154850644180495
+    second: KulibinsProject_5
+  - first:
+      213: -8456861207341558421
+    second: KulibinsProject_6
+  - first:
+      213: -7573649344354468018
+    second: KulibinsProject_7
+  - first:
+      213: -8471485902113948848
+    second: KulibinsProject_8
+  - first:
+      213: 5742781183152334741
+    second: KulibinsProject_9
+  - first:
+      213: -988180747316064113
+    second: KulibinsProject_10
+  - first:
+      213: 649674313355335053
+    second: KulibinsProject_11
+  - first:
+      213: 880323069368115117
+    second: KulibinsProject_12
+  - first:
+      213: -97130060620299672
+    second: KulibinsProject_13
+  - first:
+      213: -6557580185040594594
+    second: KulibinsProject_14
+  - first:
+      213: 1696005374780161158
+    second: KulibinsProject_15
+  - first:
+      213: -8006320815280066802
+    second: KulibinsProject_16
+  - first:
+      213: -7768271508840290918
+    second: KulibinsProject_17
+  - first:
+      213: 5604971651268488897
+    second: KulibinsProject_18
+  - first:
+      213: -4059046243959287373
+    second: KulibinsProject_19
+  - first:
+      213: -8187222390777849933
+    second: KulibinsProject_20
+  - first:
+      213: 5062529038471616131
+    second: KulibinsProject_21
+  - first:
+      213: 3868232840632838852
+    second: KulibinsProject_22
+  - first:
+      213: -2229409561672003170
+    second: KulibinsProject_23
+  - first:
+      213: 183381652675389026
+    second: KulibinsProject_24
+  - first:
+      213: 7692610155234729917
+    second: KulibinsProject_25
+  - first:
+      213: -8282550213828399014
+    second: KulibinsProject_26
+  - first:
+      213: 8671289865909815679
+    second: KulibinsProject_27
+  - first:
+      213: 9101712365050991308
+    second: KulibinsProject_28
+  - first:
+      213: 1129314793867514731
+    second: KulibinsProject_29
+  - first:
+      213: 9217151908728737783
+    second: KulibinsProject_30
+  - first:
+      213: 5293084089941788833
+    second: KulibinsProject_31
+  - first:
+      213: 3700658451610487538
+    second: KulibinsProject_32
+  - first:
+      213: 55635584578018130
+    second: KulibinsProject_33
+  - first:
+      213: -5619724359776996276
+    second: KulibinsProject_34
+  - first:
+      213: -3324494446559069319
+    second: KulibinsProject_35
+  - first:
+      213: -5183417386532004664
+    second: KulibinsProject_36
+  - first:
+      213: -1150200621033490401
+    second: KulibinsProject_37
+  - first:
+      213: 2859532727809084026
+    second: KulibinsProject_38
+  - first:
+      213: 98568274573697435
+    second: KulibinsProject_39
+  - first:
+      213: 5652082673990058825
+    second: KulibinsProject_40
+  - first:
+      213: 7211583457146672369
+    second: KulibinsProject_41
+  - first:
+      213: 1104132285800780507
+    second: KulibinsProject_42
+  - first:
+      213: 1564011529340304510
+    second: KulibinsProject_43
+  - first:
+      213: 2181749834991571463
+    second: KulibinsProject_44
+  - first:
+      213: -3068963758664680793
+    second: KulibinsProject_45
+  - first:
+      213: 1973231357359884217
+    second: KulibinsProject_46
+  - first:
+      213: 7380012262699058742
+    second: KulibinsProject_47
+  - first:
+      213: -5819221553136994291
+    second: KulibinsProject_48
+  - first:
+      213: 3756993158255650556
+    second: KulibinsProject_49
+  - first:
+      213: -2818370791840895469
+    second: KulibinsProject_50
+  - first:
+      213: -2384534958509472248
+    second: KulibinsProject_51
+  - first:
+      213: 7317522826472758254
+    second: KulibinsProject_52
+  - first:
+      213: -3557104343322478801
+    second: KulibinsProject_53
+  - first:
+      213: -4917278660669448865
+    second: KulibinsProject_54
+  - first:
+      213: 7650419715280154358
+    second: KulibinsProject_55
+  - first:
+      213: -3475256707344773258
+    second: KulibinsProject_56
+  - first:
+      213: -5391635278581362940
+    second: KulibinsProject_57
+  - first:
+      213: -7018191875736508102
+    second: KulibinsProject_58
+  - first:
+      213: -3821892545128095769
+    second: KulibinsProject_59
+  - first:
+      213: -7908989220470120463
+    second: KulibinsProject_60
+  - first:
+      213: 3046511716361556303
+    second: KulibinsProject_61
+  - first:
+      213: -9045377626841531330
+    second: KulibinsProject_62
+  - first:
+      213: 5072759023054695658
+    second: KulibinsProject_63
+  - first:
+      213: -1648934600303253921
+    second: KulibinsProject_64
+  - first:
+      213: 6310263331846285966
+    second: KulibinsProject_65
+  - first:
+      213: -1572508493076402283
+    second: KulibinsProject_66
+  - first:
+      213: -3123828585129220080
+    second: KulibinsProject_67
+  - first:
+      213: -2024138288898757268
+    second: KulibinsProject_68
+  - first:
+      213: -7585861304559852943
+    second: KulibinsProject_69
+  - first:
+      213: 1989640612243535891
+    second: KulibinsProject_70
+  - first:
+      213: 2982503741382172978
+    second: KulibinsProject_71
+  - first:
+      213: -3354770551126981295
+    second: KulibinsProject_72
+  - first:
+      213: -1190960678980847496
+    second: KulibinsProject_73
+  - first:
+      213: 1519334836359358998
+    second: KulibinsProject_74
+  - first:
+      213: 6646116239230635823
+    second: KulibinsProject_75
+  - first:
+      213: 2803461851488667952
+    second: KulibinsProject_76
+  - first:
+      213: -1303751088509539274
+    second: KulibinsProject_77
+  - first:
+      213: 4723840218922910964
+    second: KulibinsProject_78
+  - first:
+      213: -5997755824504417741
+    second: KulibinsProject_79
+  - first:
+      213: -9090494118585948741
+    second: KulibinsProject_80
+  - first:
+      213: -8375982195370231517
+    second: KulibinsProject_81
+  - first:
+      213: -4438213557411257044
+    second: KulibinsProject_82
+  - first:
+      213: -4917362326745638659
+    second: KulibinsProject_83
+  - first:
+      213: 7832950379265358383
+    second: KulibinsProject_84
+  - first:
+      213: 2057811692464065392
+    second: KulibinsProject_85
+  - first:
+      213: 336151587813800596
+    second: KulibinsProject_86
+  - first:
+      213: -2789087713753326439
+    second: KulibinsProject_87
+  - first:
+      213: -803221717383864156
+    second: KulibinsProject_88
+  - first:
+      213: -2389862037013270167
+    second: KulibinsProject_89
+  - first:
+      213: 4951058593579683291
+    second: KulibinsProject_90
+  - first:
+      213: -914861373494530615
+    second: KulibinsProject_91
+  - first:
+      213: 7254660059597423569
+    second: KulibinsProject_92
+  - first:
+      213: 7738771242464105808
+    second: KulibinsProject_93
+  - first:
+      213: 8910533763011767615
+    second: KulibinsProject_94
+  - first:
+      213: -5148556942505758158
+    second: KulibinsProject_95
+  - first:
+      213: 566097981721236035
+    second: KulibinsProject_96
+  - first:
+      213: -7811956890242689439
+    second: KulibinsProject_97
+  - first:
+      213: -5483464338895278787
+    second: KulibinsProject_98
+  - first:
+      213: -5827867431283811718
+    second: KulibinsProject_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KulibinsProject_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b64cfbb8047850800000000000000
+      internalID: 6373728976120493603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 450
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592bcead086687e0800000000000000
+      internalID: -1763607796092556974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 450
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4029cde99a4037420800000000000000
+      internalID: 2626448134248370692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 450
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7e65e50096cf640800000000000000
+      internalID: 5115078727089711044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7855e3d8f267cce40800000000000000
+      internalID: 5678043176812565895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 450
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e331cf8d4eaa530800000000000000
+      internalID: 3867154850644180495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 450
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6510adc98133aa80800000000000000
+      internalID: -8456861207341558421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 450
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fb1685c0ef4e690800000000000000
+      internalID: -7573649344354468018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 450
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bb4c4b47c3f6a80800000000000000
+      internalID: -8471485902113948848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 450
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597a79c3f0572bf40800000000000000
+      internalID: 5742781183152334741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80985e88d64942f0800000000000000
+      internalID: -988180747316064113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 400
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d859d3b885b140900800000000000000
+      internalID: 649674313355335053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 400
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf944dda29873c00800000000000000
+      internalID: 880323069368115117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 400
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86207b779bce6aef0800000000000000
+      internalID: -97130060620299672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 400
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d384b09bcef4a0800000000000000
+      internalID: -6557580185040594594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 400
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cbcec07eb698710800000000000000
+      internalID: 1696005374780161158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 400
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f6a6743a5d3e090800000000000000
+      internalID: -8006320815280066802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 400
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9569c4883e813490800000000000000
+      internalID: -7768271508840290918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 400
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce2ef9350cd8cd40800000000000000
+      internalID: 5604971651268488897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_19
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 400
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b15ce562fe5ba7c0800000000000000
+      internalID: -4059046243959287373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7df840d94216e80800000000000000
+      internalID: -8187222390777849933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 350
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386533b8657b14640800000000000000
+      internalID: 5062529038471616131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 350
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caab661649bea530800000000000000
+      internalID: 3868232840632838852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 350
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e915ea9c0db8f01e0800000000000000
+      internalID: -2229409561672003170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 350
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2666a0a34a08b8200800000000000000
+      internalID: 183381652675389026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 350
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1452dd24a1ca60800000000000000
+      internalID: 7692610155234729917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 350
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a503c6e96787e0d80800000000000000
+      internalID: -8282550213828399014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_27
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 350
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79cff9c03c965870800000000000000
+      internalID: 8671289865909815679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 350
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc215ae4c27cf4e70800000000000000
+      internalID: 9101712365050991308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_29
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 350
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63111852d12caf00800000000000000
+      internalID: 1129314793867514731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff079093d6e9ef70800000000000000
+      internalID: 9217151908728737783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 300
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a880439fefc47940800000000000000
+      internalID: 5293084089941788833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 300
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa4a4b31416b5330800000000000000
+      internalID: 3700658451610487538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 300
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bd4a7f448a5c000800000000000000
+      internalID: 55635584578018130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 300
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f1e7287ab202b0800000000000000
+      internalID: -5619724359776996276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 300
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b761f2ae50dd1d0800000000000000
+      internalID: -3324494446559069319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 300
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc1d21995dc018b0800000000000000
+      internalID: -5183417386532004664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_37
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 300
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f187dd211aaa900f0800000000000000
+      internalID: -1150200621033490401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 300
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a0aa09dd91fa720800000000000000
+      internalID: 2859532727809084026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_39
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 300
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91a610d25f2e5100800000000000000
+      internalID: 98568274573697435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9434158fe3b307e40800000000000000
+      internalID: 5652082673990058825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 250
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f49f4712f0b41460800000000000000
+      internalID: 7211583457146672369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_42
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 250
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd21238c67aa25f00800000000000000
+      internalID: 1104132285800780507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 250
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cb1fe033c74b510800000000000000
+      internalID: 1564011529340304510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 250
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702907f5ae1274e10800000000000000
+      internalID: 2181749834991571463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 250
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa7e38b8b9d865d0800000000000000
+      internalID: -3068963758664680793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 250
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b709130773526b10800000000000000
+      internalID: 1973231357359884217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_47
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 250
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636443c4d021b6660800000000000000
+      internalID: 7380012262699058742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_48
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 250
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08f8f734d8fd3fa0800000000000000
+      internalID: -5819221553136994291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_49
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 250
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6a66d3f55832430800000000000000
+      internalID: 3756993158255650556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eacfa72b223e8d0800000000000000
+      internalID: -2818370791840895469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 200
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806ca8bc61e68eed0800000000000000
+      internalID: -2384534958509472248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 200
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb98b3ad301d8560800000000000000
+      internalID: 7317522826472758254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_53
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 200
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27b3433270a2aec0800000000000000
+      internalID: -3557104343322478801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d50396c1152cbb0800000000000000
+      internalID: -4917278660669448865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_55
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 200
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe2be78230cb2a60800000000000000
+      internalID: 7650419715280154358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_56
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 200
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fcb67ff6865cfc0800000000000000
+      internalID: -3475256707344773258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_57
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 200
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f81bdb7401d25b0800000000000000
+      internalID: -5391635278581362940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_58
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 200
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3961394caf5a9e90800000000000000
+      internalID: -7018191875736508102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_59
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 200
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef1dedbaf8e5fac0800000000000000
+      internalID: -3821892545128095769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1c752530ad3290800000000000000
+      internalID: -7908989220470120463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 150
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41dbc1d342674a20800000000000000
+      internalID: 3046511716361556303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_62
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 150
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c38dc09fc587280800000000000000
+      internalID: -9045377626841531330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_63
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 150
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec2550747f066640800000000000000
+      internalID: 5072759023054695658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 150
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56e21ba7becd19e0800000000000000
+      internalID: -1648934600303253921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_65
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 150
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aeedd211f829750800000000000000
+      internalID: 6310263331846285966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 150
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f65e76bd35d2ae0800000000000000
+      internalID: -1572508493076402283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_67
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 150
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018692cd37ee5a4d0800000000000000
+      internalID: -3123828585129220080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 150
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d2ce953f0d8e3e0800000000000000
+      internalID: -2024138288898757268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_69
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 150
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172245ac55b99b690800000000000000
+      internalID: -7585861304559852943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3187773689f9c9b10800000000000000
+      internalID: 1989640612243535891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_71
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231ab5ec95bf36920800000000000000
+      internalID: 2982503741382172978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_72
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155822545f57171d0800000000000000
+      internalID: -3354770551126981295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_73
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 100
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87873eb829bd87fe0800000000000000
+      internalID: -1190960678980847496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_74
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 100
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a6310ebf2c51510800000000000000
+      internalID: 1519334836359358998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_75
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 100
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0c47c18fbb3c50800000000000000
+      internalID: 6646116239230635823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_76
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 100
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039475753b5e7e620800000000000000
+      internalID: 2803461851488667952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_77
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 100
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c2cd5ea4528ede0800000000000000
+      internalID: -1303751088509539274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_78
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 100
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f48a90b6a37e8140800000000000000
+      internalID: 4723840218922910964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_79
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 100
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33252e6ead0b3cca0800000000000000
+      internalID: -5997755824504417741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb528ec33c318d180800000000000000
+      internalID: -9090494118585948741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_81
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329f5f7329882cb80800000000000000
+      internalID: -8375982195370231517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 50
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ed21c84c4862c0800000000000000
+      internalID: -4438213557411257044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_83
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 50
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df81072640502cbb0800000000000000
+      internalID: -4917362326745638659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_84
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 50
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a7f538eda34bc60800000000000000
+      internalID: 7832950379265358383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 50
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b47ffd4d0de8c10800000000000000
+      internalID: 2057811692464065392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_86
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 50
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a335e86104aa400800000000000000
+      internalID: 336151587813800596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_87
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 50
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c9356608b2b49d0800000000000000
+      internalID: -2789087713753326439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_88
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 50
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0a47b8a126ad4f0800000000000000
+      internalID: -803221717383864156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_89
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 50
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961f1ada32185ded0800000000000000
+      internalID: -2389862037013270167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd467c1f81b5b440800000000000000
+      internalID: 4951058593579683291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_91
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde12e8d62cd43f0800000000000000
+      internalID: -914861373494530615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_92
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c48a23eabda460800000000000000
+      internalID: 7254660059597423569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_93
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d4197173a56b60800000000000000
+      internalID: 7738771242464105808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_94
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3de0775f3398ab70800000000000000
+      internalID: 8910533763011767615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_95
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232b2103db6ac88b0800000000000000
+      internalID: -5148556942505758158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_96
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3425f847d1f2bd700800000000000000
+      internalID: 566097981721236035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_97
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1665b6c099a569390800000000000000
+      internalID: -7811956890242689439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_98
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3def958c32d6e3b0800000000000000
+      internalID: -5483464338895278787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KulibinsProject_99
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 66.6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a9248d2714f1fa0800000000000000
+      internalID: -5827867431283811718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6cda0d82a05ff7844afbc972d6930fb7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
